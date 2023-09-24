@@ -51,7 +51,7 @@ Applied the best-performing model to the holdout test set, obtaining a final set
 ### Project Structure
 This repository is organized as follows:
 
-`Notebooks`: Contains Jupyter notebooks detailing the data analysis and machine learning pipeline.
+`e-commerce-shipping.ipynb`: Contains Jupyter notebooks detailing the data analysis and machine learning pipeline.
 `Data`: Data for this project is picked from a `Kaggle` dataset (Link given) [https://www.kaggle.com/datasets/prachi13/customer-analytics]
 
 ### Short Summary 
