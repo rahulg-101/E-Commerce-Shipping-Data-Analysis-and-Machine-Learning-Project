@@ -6,6 +6,8 @@
 
 In this project, we embarked on an exciting journey to uncover valuable insights from the "E-Commerce Shipping Data" of an international e-commerce company specializing in electronic products. The primary objective was to leverage advanced machine learning techniques to study customer behavior and improve the company's shipping processes.
 
+> **Data for this project is picked from a `Kaggle` dataset (Link given) [https://www.kaggle.com/datasets/prachi13/customer-analytics]**
+
 ### Key Questions Explored
 1. Customer Rating vs. On-Time Delivery:
   * Investigated the relationship between customer ratings and product delivery times.
